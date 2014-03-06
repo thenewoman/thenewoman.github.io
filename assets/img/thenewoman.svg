@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="385px" height="492px" viewBox="0 0 385 492" enable-background="new 0 0 385 492" xml:space="preserve">
+<g id="logo">
+	<path fill="#9FD5B8" d="M230.458,126.457c66.697,0,120.771,54.071,120.771,120.771C351.229,313.93,297.156,368,230.458,368
+		c-66.701,0-120.771-54.07-120.771-120.771C109.687,180.528,163.757,126.457,230.458,126.457z"/>
+	<g>
+		<g>
+			<path fill="#6BB992" d="M350.601,234.842l-42.021-42.021l-77.664,52.47l-77.486,52.348l70.165,70.163
+				c2.272,0.128,4.562,0.198,6.866,0.198c66.698,0,120.771-54.07,120.771-120.771C351.229,243.047,351.017,238.915,350.601,234.842z
+				 M212.659,247.025l-43.98-43.982l-7.902,37.272l4.771,35.931L212.659,247.025z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M227.345,242.711l-7.539-5.109l-2.955-2.003l-48.221,32.104l0.09-64.721l-15.34-10.395v105.272
+				l77.672-52.637L227.345,242.711z M230.458,131.842c-63.729,0-115.389,51.661-115.389,115.387
+				c0,63.727,51.66,115.388,115.389,115.388c63.725,0,115.385-51.661,115.385-115.388
+				C345.843,183.503,294.183,131.842,230.458,131.842z M230.458,360.131c-62.355,0-112.902-50.548-112.902-112.902
+				c0-62.354,50.547-112.901,112.902-112.901c62.354,0,112.9,50.548,112.9,112.901C343.36,309.584,292.812,360.131,230.458,360.131z
+				 M231.118,245.189v0.1l-0.223,0.148l0.223,0.149l0.105,41.218l14.334,11.341l-0.105-43.317l47.865-31.869l-0.088,64.722
+				l15.338,10.396V192.801L231.19,245.24L231.118,245.189z"/>
+		</g>
+	</g>
+</g>
+<line id="LINHA1" fill="none" stroke="#9FD5B8" stroke-miterlimit="10" x1="230.458" y1="126.457" x2="230.458" y2="64.426"/>
+<g id="cara1">
+	<g>
+		<g>
+			<g>
+				<defs>
+					<circle id="SVGID_1_" cx="230.458" cy="33.759" r="30.667"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_2_)">
+					
+						<image overflow="visible" enable-background="new    " width="400" height="269" xlink:href="../../assets/img/8-smallest.jpg"  transform="matrix(0.2956 0 0 0.2956 171.1624 -6)">
+					</image>
+				</g>
+			</g>
+		</g>
+	</g>
+	<circle fill="none" stroke="#9FD5B8" stroke-width="2" stroke-miterlimit="10" cx="230.457" cy="33.759" r="30.667"/>
+</g>
+<line id="LINHA2" fill="none" stroke="#9FD5B8" stroke-miterlimit="10" x1="312.568" y1="158.257" x2="353.197" y2="117.629"/>
+<g id="cara2">
+	<g>
+		<g>
+			<g>
+				<defs>
+					<circle id="SVGID_3_" cx="358.512" cy="106.408" r="19.461"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  overflow="visible"/>
+				</clipPath>
+				<g transform="matrix(1 0 0 1 3.051758e-05 7.629395e-06)" clip-path="url(#SVGID_4_)">
+					
+						<image overflow="visible" enable-background="new    " width="400" height="269" xlink:href="../../assets/img/8-smallest.jpg"  transform="matrix(0.24 0 0 0.24 310.5119 74.1279)">
+					</image>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<circle id="SVGID_5_" cx="358.512" cy="106.408" r="19.461"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_6_)">
+					
+						<image overflow="visible" enable-background="new    " width="400" height="300" xlink:href="../../assets/img/3-smallest.jpg"  transform="matrix(0.137 0 0 0.137 326.9495 86.6162)">
+					</image>
+				</g>
+			</g>
+		</g>
+	</g>
+	<circle fill="none" stroke="#9FD5B8" stroke-width="2" stroke-miterlimit="10" cx="358.511" cy="106.408" r="19.461"/>
+</g>
+<line id="LINHA3" fill="none" stroke="#9FD5B8" stroke-miterlimit="10" x1="230.458" y1="399.016" x2="230.458" y2="368"/>
+<g id="cara3">
+	<g>
+		<g>
+			<g>
+				<defs>
+					<circle id="SVGID_7_" cx="230.459" cy="443.092" r="43.632"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  overflow="visible"/>
+				</clipPath>
+				<g transform="matrix(1 0 0 1 0 -3.051758e-05)" clip-path="url(#SVGID_8_)">
+					
+						<image overflow="visible" enable-background="new    " width="400" height="267" xlink:href="../../assets/img/9-smallest.jpg"  transform="matrix(0.3307 0 0 0.3307 175.5754 398.9434)">
+					</image>
+				</g>
+			</g>
+		</g>
+	</g>
+	<circle fill="none" stroke="#9FD5B8" stroke-width="2" stroke-miterlimit="10" cx="230.456" cy="443.092" r="43.632"/>
+</g>
+<line id="LINHA4" fill="none" stroke="#9FD5B8" stroke-miterlimit="10" x1="100.517" y1="106.408" x2="150.941" y2="156.833"/>
+<g id="cara4">
+	<g>
+		<g>
+			<g>
+				<defs>
+					<circle id="SVGID_9_" cx="61.802" cy="67.692" r="57.082"/>
+				</defs>
+				<clipPath id="SVGID_10_">
+					<use xlink:href="#SVGID_9_"  overflow="visible"/>
+				</clipPath>
+				<g transform="matrix(1 0 0 1 0 -9.536743e-07)" clip-path="url(#SVGID_10_)">
+					
+						<image overflow="visible" enable-background="new    " width="400" height="267" xlink:href="../../assets/img/9-smallest.jpg"  transform="matrix(0.4327 0 0 0.4327 -10.0007 9.9336)">
+					</image>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<circle id="SVGID_11_" cx="61.802" cy="67.692" r="57.082"/>
+				</defs>
+				<clipPath id="SVGID_12_">
+					<use xlink:href="#SVGID_11_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_12_)">
+					
+						<image overflow="visible" enable-background="new    " width="377" height="377" xlink:href="../../assets/img/me.jpg"  transform="matrix(0.3727 0 0 0.3727 -8.4529 -2.5596)">
+					</image>
+				</g>
+			</g>
+		</g>
+	</g>
+	<circle fill="none" stroke="#9FD5B8" stroke-width="2" stroke-miterlimit="10" cx="61.798" cy="67.691" r="57.082"/>
+</g>
+<line id="LINHA5" fill="none" stroke="#9FD5B8" stroke-miterlimit="10" x1="273.955" y1="137.128" x2="284.408" y2="108.694"/>
+<g id="cara5">
+	<g>
+		<g>
+			<g>
+				<defs>
+					<circle id="SVGID_13_" cx="287.321" cy="98.441" r="14.033"/>
+				</defs>
+				<clipPath id="SVGID_14_">
+					<use xlink:href="#SVGID_13_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_14_)">
+					
+						<image overflow="visible" enable-background="new    " width="400" height="300" xlink:href="../../assets/img/5-smallest.jpg"  transform="matrix(0.0933 0 0 0.0933 273.1067 84.4028)">
+					</image>
+				</g>
+			</g>
+		</g>
+	</g>
+	<circle fill="none" stroke="#9FD5B8" stroke-miterlimit="10" cx="287.32" cy="98.441" r="14.034"/>
+</g>
+<line id="LINHA6" fill="none" stroke="#9FD5B8" stroke-miterlimit="10" x1="296.599" y1="348.273" x2="309.313" y2="375.77"/>
+<g id="cara6">
+	<g>
+		<g>
+			<g>
+				<defs>
+					<circle id="SVGID_15_" cx="314.504" cy="385.079" r="22.7"/>
+				</defs>
+				<clipPath id="SVGID_16_">
+					<use xlink:href="#SVGID_15_"  overflow="visible"/>
+				</clipPath>
+				<g clip-path="url(#SVGID_16_)">
+					
+						<image overflow="visible" enable-background="new    " width="400" height="276" xlink:href="../../assets/img/2-smallest.jpg"  transform="matrix(0.24 0 0 0.24 266.5042 350.3877)">
+					</image>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<circle fill="none" stroke="#9FD5B8" stroke-width="2" stroke-miterlimit="10" cx="314.502" cy="385.079" r="22.701"/>
+	</g>
+</g>
+</svg>
