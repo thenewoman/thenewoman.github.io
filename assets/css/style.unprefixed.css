@@ -361,6 +361,7 @@ section {
   color: #fff;
   margin-top: 5%;
   margin-left: 37.5%%;
+  cursor: pointer;
 }
 
 .o20 {
@@ -430,6 +431,23 @@ section {
 
 #cot {
   margin-top: 9%;
+}
+
+#thanku {
+  position: absolute;
+  width: 90%;
+  margin-left: 3%;
+  height: 37%;
+  background-color: #fff;
+  color: #51AA7C;
+  text-align: center;
+  font-family: 'Adam';
+  font-size: 2.5em;
+  display: none;
+  z-index: 3;
+}
+#thanku p {
+  margin-top: 10%;
 }
 
 .myowncheck {
