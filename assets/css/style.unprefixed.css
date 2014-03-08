@@ -77,6 +77,21 @@ body {
   cursor: pointer;
 }
 
+.items2 {
+  color: #fff;
+  position: relative;
+  float: right;
+  top: -0.2em;
+  font-size: 1.3em;
+  font-family: 'Adam';
+  margin-right: 4%;
+  cursor: pointer;
+}
+.items2 a {
+  color: #fff;
+  text-decoration: none;
+}
+
 #logo {
   position: relative;
   margin-left: 3%;
@@ -287,6 +302,7 @@ section {
   height: 80%;
   top: 4.8%;
   left: 8%;
+  display: none;
 }
 
 #texthelp2 {
