@@ -133,6 +133,19 @@ body {
   z-index: 5;
 }
 
+#logocenter.pt {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -225px;
+  margin-top: -250px;
+  width: 450px;
+  height: 500px;
+  background: url(../img/logocenterpt.png) center center no-repeat;
+  background-size: contain;
+  z-index: 5;
+}
+
 #fakeit {
   position: absolute;
   bottom: 0px;
@@ -417,6 +430,10 @@ section {
 
 #cot {
   margin-top: 9%;
+}
+
+.myowncheck {
+  font-family: nao;
 }
 
 @font-face {
