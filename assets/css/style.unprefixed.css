@@ -339,6 +339,70 @@ section {
   height: 30%;
 }
 
+.flutua {
+  float: left;
+}
+.flutua p {
+  margin: 0px;
+  padding: 0px;
+}
+
+.flutua2 {
+  float: right;
+}
+.flutua2 p {
+  margin: 0px;
+  padding: 0px;
+}
+
+.iconoclastic {
+  font-family: 'Iconastic';
+  font-size: 8em;
+}
+
+#coisasdecima {
+  font-family: 'Opensans Bold';
+  font-size: 2.1em;
+  margin-left: 1.5em;
+  margin-top: -0.5%;
+  color: #51AA7C;
+}
+#coisasdecima a {
+  text-decoration: none;
+  color: #51AA7C;
+  margin-right: 1em;
+}
+
+#megafone {
+  margin-top: -3%;
+}
+
+#downer {
+  padding-top: 4%;
+}
+
+#coisasdebaixo {
+  font-family: 'Opensans Bold';
+  font-size: 1.5em;
+  margin-right: 1.3em;
+  text-align: right;
+  color: #51AA7C;
+}
+#coisasdebaixo a {
+  color: #51AA7C;
+  font-family: 'Adam';
+  font-size: 1.2em;
+}
+
+#icones {
+  font-family: 'Iconastic' !important;
+  font-size: 1.5em;
+}
+
+#cot {
+  margin-top: 9%;
+}
+
 @font-face {
   font-family: 'Adam';
   src: url("../fonts/adam-webfont.eot");
